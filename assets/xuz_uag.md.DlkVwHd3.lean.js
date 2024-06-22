@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,a4 as e}from"./chunks/framework.bQ0x2aEl.js";const b=JSON.parse('{"title":"完整版用户协议","description":"","frontmatter":{},"headers":[],"relativePath":"xuz/uag.md","filePath":"xuz/uag.md"}'),o={name:"xuz/uag.md"},t=e("",28),r=[t];function h(n,d,s,_,c,p){return i(),l("div",null,r)}const q=a(o,[["render",h]]);export{b as __pageData,q as default};
